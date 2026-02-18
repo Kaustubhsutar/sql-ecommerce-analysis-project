@@ -19,7 +19,7 @@ A centralized rolling 30-day SQL view was created to ensure consistent, reusable
 
 ---
 
-## 🔗 Important Links
+## 🛠️ Important Links & Tools
 
 Everything used in this project is cloud-based and beginner-friendly 🚀
 - **[Datasets](datasets/)**: Access to the project dataset (csv files).
@@ -62,7 +62,7 @@ sql-ecommerce-analysis-project/
 
 ---
 
-## 🔍 Funnel Insights
+## Funnel Insights
 
 | Stage | Users | Conversion |
 |-------|-------|------------|
