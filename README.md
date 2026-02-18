@@ -38,11 +38,12 @@ sql-ecommerce-analysis-project/
 │   └── user_events.csv                    # Raw user event-level data (fact table)
 │
 ├── scripts/
-│   └── funnel_analysis.sql                # SQL script containing:
+│   └── funnel_analysis.sql                # SQL script 
 │
 ├── docs/
 │   ├── data_catalog.md                    # Detailed data dictionary (tables, columns, data types)
 │   └── business_questions.md              # Business objectives addressed through analysis
+│   └── how_to_run.md                      # Detailed steps to replicate the project 
 │
 ├── README.md                              # Project overview, executive summary, insights & recommendations
 │
