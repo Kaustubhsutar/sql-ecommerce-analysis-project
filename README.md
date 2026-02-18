@@ -123,11 +123,12 @@ Small improvements in early-stage conversion would significantly increase revenu
 
 ## 💡 Strategic Recommendations
 
-1. Optimize product pages (CTA clarity, urgency signals, trust badges)
-2. Scale email & retargeting campaigns
-3. Refine paid ads audience targeting
-4. Reevaluate social acquisition quality
-5. Implement same-day abandoned cart strategy
+1. Protect the Checkout Engine – 80%+ checkout-to-purchase conversion confirms a frictionless payment system. No redesign needed.
+2. Fix the Real Leak: Top-of-Funnel Intent – The largest drop occurs at View → Cart. Growth depends on improving early-stage persuasion.
+3. Reduce Inefficient Social Spend – Social drives volume but converts poorly (~6%). Current spend likely dilutes ROI.
+4. Scale High-Intent Channels – Email delivers the strongest conversion performance. Prioritize email capture, retargeting, and lifecycle automation.
+5. Enforce CAC Discipline – With ~$110 AOV, acquisition costs must remain tightly controlled to protect margins.
+6. Revenue Growth Without More Traffic – Small improvements in early funnel conversion will materially increase revenue without increasing acquisition spend.
 
 ---
 
