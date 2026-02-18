@@ -1,7 +1,16 @@
 # 🛒 E-Commerce Funnel Optimization & Revenue Intelligence (SQL Case Study)
 
-A data-driven analysis of a 30-day e-commerce user journey to identify funnel drop-offs, evaluate traffic source efficiency,
-measure monetization performance, and uncover revenue growth opportunities using SQL (BigQuery).
+Welcome to the E-Commerce Funnel Analytics Project repository! 🚀
+
+## 📌 Executive Summary
+
+This project analyzes a 30-day e-commerce funnel using SQL (BigQuery) to uncover conversion gaps and revenue opportunities.
+
+The checkout flow performs strongly (80%+ lower-funnel conversion), while the key growth lever lies in improving early-stage (View → Cart) engagement.
+
+Email drives the highest-quality conversions, whereas social generates volume with weaker purchase efficiency.
+
+Overall, revenue growth can be achieved by optimizing funnel efficiency and channel mix—without increasing traffic. 🚀
 
 ---
 
