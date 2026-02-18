@@ -10,7 +10,7 @@ The checkout flow performs strongly (80%+ lower-funnel conversion), while the ke
 
 Email drives the highest-quality conversions, whereas social generates volume with weaker purchase efficiency.
 
-Overall, revenue growth can be achieved by optimizing funnel efficiency and channel mix—without increasing traffic. 🚀
+Overall, revenue growth can be achieved by optimizing funnel efficiency and channel mix—without increasing traffic. 
 
 ---
 
