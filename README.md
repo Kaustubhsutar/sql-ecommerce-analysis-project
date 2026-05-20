@@ -182,7 +182,7 @@ The project includes advanced SQL analysis across multiple business dimensions.
 
 ---
 
-## Key SQL Queries (WITH CODE SNIPPETS)
+## Key SQL Queries
 
 ---
 
