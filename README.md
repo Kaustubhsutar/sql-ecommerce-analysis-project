@@ -527,13 +527,7 @@ Provided actionable insights for:
 
 ---
 
-# ▶️ How to Run This Project : [`Click here to know`](docs/how_to_run.md)
-
-## 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/ecommerce-funnel-optimization.git
-```
+## ▶️ How to Run This Project : [Click here to know](docs/how_to_run.md)
 
 ---
 
