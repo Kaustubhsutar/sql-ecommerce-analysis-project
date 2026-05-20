@@ -355,7 +355,7 @@ could materially improve revenue efficiency.
 
 ---
 
-# ⏱ Conversion Time Analysis
+## ⏱ Conversion Time Analysis
 
 | Journey Stage | Avg Time |
 |---|---|
@@ -509,7 +509,7 @@ Provided actionable insights for:
 
 ---
 
-# 📚 Key Learnings
+## 📚 Key Learnings
 
 ### Technical Learnings
 
@@ -531,7 +531,7 @@ Provided actionable insights for:
 
 ---
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 Planned enhancements for the project:
 
@@ -555,7 +555,7 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 ---
 
-# ⭐ Support This Project
+## ⭐ Support This Project
 
 If you found this project insightful:
 
