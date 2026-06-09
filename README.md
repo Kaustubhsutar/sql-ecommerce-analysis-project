@@ -214,7 +214,7 @@ FROM funnel;
 > This analysis identifies the exact stages where customers abandon the purchasing journey and highlights optimization opportunities across the funnel.
 
 
-## 2️⃣ Traffic Source Conversion Analysis
+### 2️⃣ Traffic Source Conversion Analysis
 
 ```sql
 SELECT
@@ -237,7 +237,7 @@ ORDER BY conversion_rate DESC;
 
 
 
-## 3️⃣ Revenue Intelligence Metrics
+### 3️⃣ Revenue Intelligence Metrics
 
 ```sql
 SELECT
@@ -254,7 +254,7 @@ WHERE event_name = 'purchase';
 > Provides executive-level monetization KPIs used for revenue forecasting, profitability analysis, and acquisition ROI evaluation.
 
 
-## 4️⃣ Time-to-Conversion Analysis
+### 4️⃣ Time-to-Conversion Analysis
 
 ```sql
 WITH user_journey AS (
